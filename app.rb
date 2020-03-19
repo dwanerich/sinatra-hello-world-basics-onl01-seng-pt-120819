@@ -1,7 +1,7 @@
 class App < Sinatra::Base
 
   get '/' do
-    "Welcome To Sinatra Dwane"
+    "Welcome To Sinatra & Friends"
   end
 
 
